@@ -1,116 +1,184 @@
-# Roatmaps
-Learn basic c# 
+#  C# Complete Roadmap
 
+A structured roadmap to learn C# from fundamentals to advanced concepts.
 
+---
 
+#  Lesson 1 — Introduction to C# and .NET
 
+- Understanding C# and .NET ecosystem  
+- Setting up development environment  
+- .NET SDK vs .NET Runtime  
+- .NET CLI basics  
+- Creating first Console Application  
 
+ **Outcome:** Run and build your first C# application.
 
-     ### Lesson1 
--1. Undestanding C# and .NET
--2. 2 Setup development environment
--3.  3 .NET SDK vs .NET Runtime
--4.  4 .NET CLI
--5.   5 The first Console Application
-    ### Lesson2 
--1. C# gramatikasi. 
--2. Variables
--3. Naming convention
--4. Primitive Data types
--5. Dynamic vs object types
--6. Getting and Setting default values
--7. Input/Output
+---
 
-### Lesson 3
--1. Implicit and explicit casting
--2. System.Convert method
--3. ToString()
--4. Parse and TryParse
--5. String classi metodlari 
--6. String formatting 
--7. String interpolation 
--8. Verbatim string 
+#  Lesson 2 — C# Fundamentals
 
-### Lesson 4 (OOP)
-1. OOP nima? 
-2. Class, field, method, constructor, destructor 
-3. Object instance hosil qilish, this keyword 
-4. Access modifiers
-5.  OOP pillars
-6. Encapsulation
-7. getter and setter
-8. 1. Inheritence
-9. base keyword
-10. sealed class and methods
-11. static class, static constructors
+- C# syntax and grammar  
+- Variables and initialization  
+- Naming conventions  
+- Primitive data types  
+- dynamic vs object  
+- Default values  
+- Console Input / Output  
 
-    ### Lesson 5
-1. Polymorphism 
-2. function and operator overloading 
-3. Overriding 
-4. Aggregation
-5.  Abstraction, abstract class
-6. Interface
-7. nested classes
-8. partial class
-9.  Enum
-10. Generics
-11. struct
+ **Outcome:** Write basic interactive programs.
 
-  ### Lesson 6
- 1. Systems.Collections 
-2. Array vs ArrayList 
-3. List, LinkedList, SortedList 
-4. Stack, Queue 
-5. Dictionary vs HashTable
-6.  IEnumerable, ICollection, IList, IDictionary 
-7. Indexer 
-8. Iteration, yield operator
-9. Tuple 
-10. ValueTuple
-11. Nullable types 
-12. Null-coalescing operator
-    ### Lesson 7
- 1. Delegate 
-2. Event
-3. Anonymous methods
-4. Lambda expression
-5.  SVN vs Git
-6. Git repositories
-7. Git Commands
-8. Advanced(Merge, Branch, Stash)
-9.  Exceptions
-10. try, catch, final
-11. throw
+---
 
-   
-   ### Lesson 8
-   
-1. StringBuilder 
-2. Regex 
-3. String comparison
-4. File, FileInfo 
-5. StreamWriter, StreamReader 
-6. MemoryStream, FileStream 
-7. Directory, DirectoryInfo 
-8. DriveInfo 
-9. Path
-10.  DateTime class 
-11. Date, DateOnly, TimeOnly 
-12. TimeStamp
-13. 
-        ### Lesson 9
-    
- 1. JsonSerializer
-2. XmlSerializer
-3. BinaryFormatter
-4.  MultiThreading 
-5. Asynchronous Programming 
-6. Paraller Programming 
+#  Lesson 3 — Type Conversion & Strings
 
-     ###Lesson 10
-   
-   Takrorlash  
+- Implicit and explicit casting  
+- System.Convert class  
+- ToString() method  
+- Parse() and TryParse()  
+- String methods  
+- String formatting  
+- String interpolation  
+- Verbatim strings  
 
+ **Outcome:** Safely handle user input and manipulate strings.
 
+---
 
+#  Lesson 4 — Object-Oriented Programming (OOP)
+
+## Topics Covered
+- What is OOP?  
+- Class, Field, Method, Constructor, Destructor  
+- Object instance & `this` keyword  
+- Access Modifiers  
+- Encapsulation  
+- Inheritance & `base` keyword  
+- Sealed class & methods  
+- Static class & members  
+
+  **Outcome:** Build structured object-oriented programs and apply OOP principles.
+
+---
+
+#  Lesson 5 — Advanced OOP
+
+- Polymorphism  
+- Method & Operator Overloading  
+- Method Overriding  
+- Aggregation  
+- Abstraction  
+- Abstract classes  
+- Interfaces  
+- Nested classes  
+- Partial classes  
+- Enum  
+- Generics  
+- Struct  
+
+ **Outcome:** Design flexible and reusable systems.
+
+---
+
+#  Lesson 6 — Collections & Data Handling
+
+- System.Collections overview  
+- Array vs ArrayList  
+- List, LinkedList, SortedList  
+- Stack & Queue  
+- Dictionary vs Hashtable  
+- IEnumerable, ICollection, IList, IDictionary  
+- Indexers  
+- Iteration & yield  
+- Tuple & ValueTuple  
+- Nullable types  
+- Null-coalescing operator  
+
+ **Outcome:** Manage and organize data efficiently.
+
+---
+
+#  Lesson 7 — Delegates, Git & Exception Handling
+
+- Delegate  
+- Event  
+- Anonymous methods  
+- Lambda expressions  
+- SVN vs Git  
+- Git repositories  
+- Git commands  
+- Advanced Git (Merge, Branch, Stash)  
+- Exceptions: try, catch, finally, throw  
+
+ **Outcome:** Write safer programs and manage version control.
+
+---
+
+#  Lesson 8 — File System & Date Handling
+
+- StringBuilder  
+- Regular Expressions (Regex)  
+- String comparison  
+- File & FileInfo  
+- StreamWriter & StreamReader  
+- MemoryStream & FileStream  
+- Directory & DirectoryInfo  
+- DriveInfo  
+- Path  
+- DateTime class  
+- DateOnly & TimeOnly  
+- Timestamp  
+
+ **Outcome:** Work with files, directories, and date-time operations.
+
+---
+
+#  Lesson 9 — Serialization & Multithreading
+
+- JsonSerializer  
+- XmlSerializer  
+- BinaryFormatter (concept understanding)  
+- Multithreading  
+- Asynchronous programming (`async/await`)  
+- Parallel programming  
+
+ **Outcome:** Build scalable and high-performance applications.
+
+---
+
+#  Lesson 10 — Revision & Practice
+
+- OOP practice tasks  
+- Collections practice  
+- Exception handling exercises  
+- File handling mini-project  
+- Async programming practice  
+
+ **Outcome:** Strengthen practical coding skills.
+
+---
+
+#  Lesson 11 — Mini Project & Architecture Thinking
+
+- Console-based management system  
+- Layered structure introduction  
+- Clean coding principles  
+- SOLID principles overview  
+- Basic project organization  
+
+ **Outcome:** Build a structured real-world style application.
+
+---
+
+# 🏁 Final Goal
+
+By completing this roadmap, students will:
+
+ Understand C# deeply  
+ Apply OOP principles confidently  
+ Work with collections and files  
+ Handle exceptions properly  
+ Use Git professionally  
+ Build structured mini projects  
+
+---
