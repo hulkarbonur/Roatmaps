@@ -11,5 +11,5 @@
 
 #### Lesson 2
 - section 1
-- sectio 2
+- section 2
 - ....
