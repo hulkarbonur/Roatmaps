@@ -83,7 +83,9 @@ Learn basic c#
 10. try, catch, final
 11. throw
 
+   
    ### Lesson 8
+   
 1. StringBuilder 
 2. Regex 
 3. String comparison
@@ -96,7 +98,9 @@ Learn basic c#
 10.  DateTime class 
 11. Date, DateOnly, TimeOnly 
 12. TimeStamp
+13. 
         ### Lesson 9
+    
  1. JsonSerializer
 2. XmlSerializer
 3. BinaryFormatter
@@ -105,6 +109,7 @@ Learn basic c#
 6. Paraller Programming 
 
      ###Lesson 10
+   
    Takrorlash  
 
 
